@@ -1,0 +1,6 @@
+{
+  "name": "GP: Infinity Edition",
+  "description": "An action-packed retro 2D platformer shooter featuring GP. Blast monsters, activate shields, explore changing biomes, collect coins, and upgrade weapons in the shop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
